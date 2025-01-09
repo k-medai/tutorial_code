@@ -1,0 +1,3 @@
+[submodule "DDI"]
+	path = DDI
+	url = https://github.com/eda-ginger/MAIL.git
